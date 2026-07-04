@@ -69,7 +69,11 @@
 
 </div>
 
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=vortex-001&theme=tokyonight"/>
+
+</div>
 
 ---
 
